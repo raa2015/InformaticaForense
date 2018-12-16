@@ -1,4 +1,4 @@
-# InfromaticaForense
+# Informatica Forense
 Analisis de Archivos automatizados para analisis forense
 
 Calculos de MD5, SHA1 
