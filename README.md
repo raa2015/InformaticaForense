@@ -1,6 +1,6 @@
 # Informatica Forense
-Analisis de Archivos automatizados para analisis forense
+Analisis de Archivos automatizados
 
-Calculos de MD5, SHA1,
-Analisis de cabeceras utilizando el comando file,
-Analisis de metadatos utilizando exiftool
+Calculos de hash MD5, SHA1,
+Analisis de cabeceras de archivos,
+Analisis de metadatos utilizando exiftool, presentados en archivos txt en forma separada.
